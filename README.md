@@ -9,11 +9,11 @@
 ## ユースケース
 
 
-![keyidea](./data/keyidea.png)
+![keyidea](.dayshare_image.png)
 
 
 ## 発表資料
-- [発表スライド](./data/hackbook.pdf)
+- [発表スライド](.dayshare.pdf)
 
 ## ブランチ規約
 - feat/#イシュー番号_何をするか
