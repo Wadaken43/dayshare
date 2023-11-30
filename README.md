@@ -5,7 +5,7 @@
 
 
 
-## ユースケース
+## 説明
 
 
 ![keyidea](./dayshare.png)
